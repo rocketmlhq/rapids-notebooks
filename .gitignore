@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+cuml/dask-worker-space
+cudf/dask-worker-space
+cugraph/dask-worker-space
+dask-worker-space
+slurm*
