@@ -4,3 +4,6 @@ cudf/dask-worker-space
 cugraph/dask-worker-space
 dask-worker-space
 slurm*
+cuml/worker*
+*/global.lock
+*/purge.lock
